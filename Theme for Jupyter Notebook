@@ -1,0 +1,2 @@
+Write this code on jupyter cell:
+    !jt -t onedork -f hack -fs 12
