@@ -1,2 +1,6 @@
 Write this code on jupyter cell:
     !jt -t onedork -f hack -fs 12
+To incraese the code width area:
+    !jt -t onedork -f hack -fs 12 -cellw 80%
+For enabling toolbar:
+    !jt -t onedork -f hack -fs 12 -cellw 80% -T
